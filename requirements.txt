@@ -1,0 +1,31 @@
+# Data Collection
+feedparser
+newspaper3k
+beautifulsoup4
+requests
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+spacy
+nltk
+gensim
+
+# Topic Modeling
+bertopic
+
+# Visualization
+plotly
+matplotlib
+wordcloud
+networkx
+
+# Web Development
+streamlit
+
+# Database
+pymongo
+
+# Testing
+pytest
